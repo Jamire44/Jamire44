@@ -2,7 +2,7 @@
 
 🎓 3rd Year Business Computing @ TU Dublin  
 💻 Exploring **Python**, **Java (Spring Boot)**, **JS**, **C**, and **React**  
-📚 Currently working through **CS50x** and building personal tools   
+📚 Currently an intern at Irish Life 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jamie-doyle-b4404128a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2003jay04@gmail.com) 
