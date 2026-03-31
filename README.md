@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jamie Doyle
 
 🎓 3rd Year Business Computing @ TU Dublin  
-💻 Exploring **Python**, **Java (Spring Boot)**, **JS**, **C**, and **React**  
+💻 Exploring **Java**, **C**, **Python**, **JS**, and **React**  
 📚 Currently an intern at Irish Life 
 
 ## 🌐 Socials:
